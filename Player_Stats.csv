@@ -1,0 +1,462 @@
+Fname,Lname,Club,Age,Position,FPL Points,Nationality
+Alexis,Sanchez,Arsenal,28,LW,264,Chile
+Mesut,Ozil,Arsenal,28,AM,167,Germany
+Petr,Cech,Arsenal,35,GK,134,Czech Republic
+Theo,Walcott,Arsenal,28,RW,122,England
+Laurent,Koscielny,Arsenal,31,CB,121,France
+Hector,Bellerin,Arsenal,22,RB,119,Spain
+Olivier,Giroud,Arsenal,30,CF,116,France
+Nacho,Monreal,Arsenal,31,LB,115,Spain
+Shkodran,Mustafi,Arsenal,25,CB,90,Germany
+Alex,Iwobi,Arsenal,21,LW,89,Nigeria
+Granit,Xhaka,Arsenal,24,DM,85,Switzerland
+Alex,Oxlade-Chamberlain,Arsenal,23,RM,83,England
+Jack,Wilshere,Arsenal,25,CM,61,England
+Aaron,Ramsey,Arsenal,26,CM,56,Wales
+Francis,Coquelin,Arsenal,26,DM,52,France
+Gabriel,Paulista,Arsenal,26,CB,45,Brazil
+Kieran,Gibbs,Arsenal,27,LB,45,England
+Santi,Cazorla,Arsenal,32,CM,38,Spain
+Danny,Welbeck,Arsenal,26,CF,37,England
+Rob,Holding,Arsenal,21,CB,32,England
+Mohamed,Elneny,Arsenal,25,DM,26,Egypt
+Lucas,Perez,Arsenal,28,CF,20,Spain
+Emiliano,Martinez,Arsenal,24,GK,8,Argentina
+David,Ospina,Arsenal,28,GK,2,Colombia
+Carl,Jenkinson,Arsenal,25,RB,2,England
+Per,Mertesacker,Arsenal,32,CB,1,Germany
+Sead,Kolasinac,Arsenal,24,LB,0,Bosnia
+Alexandre,Lacazette,Arsenal,26,CF,0,France
+Joshua,King,Bournemouth,25,SS,178,Norway
+Jermain,Defoe,Bournemouth,34,CF,166,England
+Charlie,Daniels,Bournemouth,30,LB,134,England
+Artur,Boruc,Bournemouth,37,GK,120,Poland
+Steve,Cook,Bournemouth,26,CB,112,England
+,,Bournemouth,27,LW,107,England
+Adam,Smith,Bournemouth,26,RB,104,England
+Ryan,Fraser,Bournemouth,23,LW,100,Scotland
+Simon,Francis,Bournemouth,32,RB,89,England
+Benik,Afobe,Bournemouth,24,CF,88,Congo DR
+Harry,Arter,Bournemouth,27,CM,84,Ireland
+Marc,Pugh,Bournemouth,30,LW,64,England
+Callum,Wilson,Bournemouth,25,CF,63,England
+Nathan,Ake,Bournemouth,22,CB,55,Netherlands
+Dan,Gosling,Bournemouth,27,CM,49,England
+Andrew,Surman,Bournemouth,30,CM,44,England
+Jordon,Ibe,Bournemouth,21,RW,36,England
+Lewis,Cook,Bournemouth,20,CM,17,England
+Lys,Mousset,Bournemouth,21,CF,14,France
+Adam,Federici,Bournemouth,32,GK,8,Australia
+Max,Gradel,Bournemouth,29,LW,8,Cote d'Ivoire
+Tyrone,Mings,Bournemouth,24,CB,4,England
+Brad,Smith,Bournemouth,23,LB,4,Australia
+Asmir,Begovic,Bournemouth,30,GK,2,Bosnia
+Niki,Maenpaa,Brighton & Hove Albion,32,GK,0,Finland
+Mathew,Ryan,Brighton & Hove Albion,25,GK,0,Australia
+Lewis,Dunk,Brighton & Hove Albion,25,CB,0,England
+Shane,Duffy,Brighton & Hove Albion,25,CB,0,Ireland
+Uwe,Hunemeier,Brighton & Hove Albion,31,CB,0,Germany
+Bruno,,Brighton & Hove Albion,36,RB,0,Argentina
+Gaetan,Bong,Brighton & Hove Albion,29,LB,0,Cameroon
+Liam,Rosenior,Brighton & Hove Albion,33,RB,0,England
+Connor,Goldson,Brighton & Hove Albion,24,CB,0,England
+Markus,Suttner,Brighton & Hove Albion,30,LB,0,Austria
+Anthony,Knockaert,Brighton & Hove Albion,25,RW,0,France
+Dale,Stephens,Brighton & Hove Albion,27,CM,0,England
+Beram,Kayal,Brighton & Hove Albion,29,CM,0,Israel
+Steve,Sidwell,Brighton & Hove Albion,34,CM,0,England
+Solly,March,Brighton & Hove Albion,23,RM,0,England
+Jiri,Skalak,Brighton & Hove Albion,25,LW,0,Czech Republic
+Oliver,Norwood,Brighton & Hove Albion,26,CM,0,Northern Ireland
+Jamie,Murphy,Brighton & Hove Albion,27,LW,0,Scotland
+Pascal,Gross,Brighton & Hove Albion,26,CM,0,Germany
+Glenn,Murray,Brighton & Hove Albion,33,CF,0,England
+Tomer,Hemed,Brighton & Hove Albion,30,CF,0,Israel
+Sam,Baldock,Brighton & Hove Albion,28,CF,0,England
+Tom,Heaton,Burnley,31,GK,149,England
+Sam,Vokes,Burnley,27,CF,121,Wales
+Andre,Gray,Burnley,26,CF,108,England
+Ben,Mee,Burnley,27,CB,94,England
+Stephen,Ward,Burnley,31,LB,91,Ireland
+Matthew,Lowton,Burnley,28,RB,90,England
+Ashley,Barnes,Burnley,27,CF,81,England
+Jeff,Hendrick,Burnley,25,CM,76,Ireland
+Scott,Arfield,Burnley,28,LM,69,Canada
+Steven,Defour,Burnley,29,CM,54,Belgium
+Dean,Marney,Burnley,33,CM,51,England
+Jack,Cork,Burnley,28,DM,50,England
+Johann,Gudmundsson,Burnley,26,RW,47,Iceland
+Robbie,Brady,Burnley,25,LM,39,Ireland
+James,Tarkowski,Burnley,24,CB,23,England
+Ashley,Westwood,Burnley,27,DM,13,England
+Kevin,Long,Burnley,26,CB,3,Ireland
+Matthew,Taylor,Burnley,35,LM,0,England
+Eden,Hazard,Chelsea,26,LW,224,Belgium
+Diego,Costa,Chelsea,28,CF,196,Spain
+Gary,Cahill,Chelsea,31,CB,178,England
+Marcos,Mendoza,Chelsea,26,LB,177,Spain
+Cesar,Azpilicueta,Chelsea,27,RB,170,Spain
+Pedro,,Chelsea,29,RW,162,Spain
+Thibaut,Courtois,Chelsea,25,GK,141,Belgium
+David,Luiz,Chelsea,30,CB,132,Brazil
+Cesc,Fabregas,Chelsea,30,CM,121,Spain
+Willian,,Chelsea,28,RW,114,Brazil
+Victor,Moses,Chelsea,26,RM,105,Nigeria
+Nemanja,Matic,Chelsea,28,DM,105,Serbia
+N%27Golo,Kante,Chelsea,26,DM,83,France
+Willy,Caballero,Chelsea,35,GK,64,Argentina
+Michy,Batshuayi,Chelsea,23,CF,48,Belgium
+Kurt,Zouma,Chelsea,22,CB,15,France
+Kenedy,,Chelsea,21,LB,3,Brazil
+Eduardo,Carvalho,Chelsea,34,LW,0,Portugal
+Antonio,Rudiger,Chelsea,24,CB,0,Germany
+Tiemoue,Bakayoko,Chelsea,22,DM,0,France
+Wilfried,Zaha,Crystal Palace,24,RW,149,Cote d'Ivoire
+Christian,Benteke,Crystal Palace,26,CF,136,Belgium
+Andros,Townsend,Crystal Palace,26,RW,116,England
+Patrick,van Aanholt,Crystal Palace,26,LB,98,Netherlands
+James,McArthur,Crystal Palace,29,CM,93,Scotland
+Wayne,Hennessey,Crystal Palace,30,GK,92,Wales
+Jason,Puncheon,Crystal Palace,31,AM,92,England
+Yohan,Cabaye,Crystal Palace,31,CM,91,France
+Joel,Ward,Crystal Palace,27,RB,86,England
+James,Tomkins,Crystal Palace,28,CB,75,England
+Scott,Dann,Crystal Palace,30,CB,61,England
+Damien,Delaney,Crystal Palace,36,CB,51,Ireland
+Jeffrey,Schlupp,Crystal Palace,24,LB,47,Ghana
+Martin,Kelly,Crystal Palace,27,RB,46,England
+Luka,Milivojevic,Crystal Palace,26,DM,42,Serbia
+Lee,Chung-yong,Crystal Palace,29,RW,24,South Korea
+Connor,Wickham,Crystal Palace,24,CF,18,England
+Bakary,Sako,Crystal Palace,29,LW,7,Mali
+Pape,Souare,Crystal Palace,27,LB,6,Senegal
+Ruben,Loftus-Cheek,Crystal Palace,21,CM,6,England
+Julian,Speroni,Crystal Palace,38,GK,0,Argentina
+Ross,Barkley,Everton,23,AM,144,England
+Leighton,Baines,Everton,32,LB,135,England
+Seamus,Coleman,Everton,28,RB,133,Ireland
+Ashley,Williams,Everton,32,CB,127,Wales
+Kevin,Mirallas,Everton,29,RW,119,Belgium
+Michael,Keane,Everton,24,CB,113,England
+Phil,Jagielka,Everton,34,CB,104,England
+Jordan,Pickford,Everton,23,GK,102,England
+Joel,Robles,Everton,27,GK,89,Spain
+Idrissa,Gueye,Everton,27,CM,80,Senegal
+Wayne,Rooney,Everton,31,SS,76,England
+Ramiro,Mori,Everton,26,CB,69,Argentina
+Maarten,Stekelenburg,Everton,34,GK,68,Netherlands
+Gareth,Barry,Everton,36,DM,68,England
+Tom,Davies,Everton,19,CM,63,England
+Mason,Holgate,Everton,20,CB,54,England
+Yannick,Bolasie,Everton,28,LW,45,Congo DR
+Morgan,Schneiderlin,Everton,27,DM,37,France
+Cuco,Martina,Everton,27,RB,31,Curacao
+James,McCarthy,Everton,26,CM,23,Ireland
+Aaron,Lennon,Everton,30,RW,22,England
+Dominic,Calvert-Lewin,Everton,20,SS,17,England
+Ademola,Lookman,Everton,19,LW,16,England
+Matthew,Pennington,Everton,22,CB,9,England
+Jonjoe,Kenny,Everton,20,RB,1,England
+Muhamed,Besic,Everton,24,DM,0,Germany
+Davy,Klaassen,Everton,24,AM,0,Netherlands
+Sandro,Ramirez,Everton,22,CF,0,Spain
+Joel,Coleman,Huddersfield Town,21,GK,0,England
+Jonas,Lossl,Huddersfield Town,28,GK,0,Denmark
+Christopher,Schindler,Huddersfield Town,27,CB,0,Germany
+Chris,Lowe,Huddersfield Town,28,LB,0,Germany
+Tommy,Smith,Huddersfield Town,25,RB,0,England
+Michael,Hefele,Huddersfield Town,26,CB,0,Germany
+Martin,Cranie,Huddersfield Town,30,CB,0,England
+Jon,Stankovic,Huddersfield Town,21,CB,0,Slovenia
+Mark,Hudson,Huddersfield Town,35,CB,0,England
+Mathias,Jorgensen,Huddersfield Town,27,CB,0,Denmark
+Scott,Malone,Huddersfield Town,26,LB,0,England
+Aaron,Mooy,Huddersfield Town,26,CM,0,Australia
+Rajiv,van Parra,Huddersfield Town,26,LW,0,Netherlands
+Jonathan,Hogg,Huddersfield Town,28,CM,0,England
+Philip,Billing,Huddersfield Town,21,CM,0,Denmark
+Joe,Lolley,Huddersfield Town,24,RW,0,England
+Jack,Payne,Huddersfield Town,25,CM,0,England
+Dean,Whitehead,Huddersfield Town,35,CM,0,England
+Harry,Bunn,Huddersfield Town,24,LW,0,England
+Sean,Scannell,Huddersfield Town,26,RW,0,Ireland
+Elias,Kachunga,Huddersfield Town,25,RW,0,Congo DR
+Tom,Ince,Huddersfield Town,25,RW,0,England
+Kasey,Palmer,Huddersfield Town,20,AM,0,England
+Andy,Williams,Huddersfield Town,26,CB,0,Trinidad and Tobago
+Nahki,Wells,Huddersfield Town,27,CF,0,Bermuda
+Collin,Quaner,Huddersfield Town,26,CF,0,Germany
+Laurent,Depoitre,Huddersfield Town,28,CF,0,Belgium
+Steve,Mounie,Huddersfield Town,22,CF,0,Benin
+Jamie,Vardy,Leicester City,30,CF,161,England
+Riyad,Mahrez,Leicester City,26,RW,120,Algeria
+Kasper,Schmeichel,Leicester City,30,GK,109,Denmark
+Christian,Fuchs,Leicester City,31,LB,104,Austria
+Marc,Albrighton,Leicester City,27,LM,95,England
+Robert,Huth,Leicester City,32,CB,88,Germany
+Danny,Simpson,Leicester City,30,RB,85,England
+Islam,Slimani,Leicester City,29,CF,83,Algeria
+Harry,Maguire,Leicester City,24,CB,71,England
+Danny,Drinkwater,Leicester City,27,CM,69,England
+Wes,Morgan,Leicester City,33,CB,63,Jamaica
+Shinji,Okazaki,Leicester City,31,CF,63,Japan
+Wilfred,Ndidi,Leicester City,20,DM,59,Nigeria
+Demarai,Gray,Leicester City,21,LW,58,England
+Daniel,Amartey,Leicester City,22,DM,53,Ghana
+Andy,King,Leicester City,28,CM,41,Wales
+Ahmed,Musa,Leicester City,24,CF,39,Nigeria
+Yohan,Benalouane,Leicester City,30,CB,27,Tunisia
+Leonardo,Ulloa,Leicester City,30,CF,24,Argentina
+Ben,Chilwell,Leicester City,20,LB,19,England
+Nampalys,Mendy,Leicester City,25,DM,6,France
+Ben,Hamer,Leicester City,29,GK,0,England
+Molla,Wague,Leicester City,26,CB,0,Mali
+Vicente,Iborra,Leicester City,29,DM,0,Spain
+Roberto,Firmino,Liverpool,25,SS,180,Brazil
+Philippe,Coutinho,Liverpool,25,AM,171,Brazil
+Sadio,Mane,Liverpool,25,LW,156,Senegal
+Georginio,Wijnaldum,Liverpool,26,CM,149,Netherlands
+James,Milner,Liverpool,31,CM,139,England
+Adam,Lallana,Liverpool,29,AM,139,England
+Nathaniel,Clyne,Liverpool,26,RB,129,England
+Simon,Mignolet,Liverpool,29,GK,110,Belgium
+Dejan,Lovren,Liverpool,28,CB,106,Croatia
+Emre,Can,Liverpool,23,DM,104,Germany
+Joel,Matip,Liverpool,25,CB,97,Cameroon
+Divock,Origi,Liverpool,22,CF,96,Belgium
+Jordan,Henderson,Liverpool,27,CM,73,England
+Daniel,Sturridge,Liverpool,27,CF,54,England
+Lucas,Leiva,Liverpool,30,DM,47,Brazil
+Ragnar,Klavan,Liverpool,31,CB,43,Estonia
+Mamadou,Sakho,Liverpool,27,CB,35,France
+Loris,Karius,Liverpool,24,GK,32,Germany
+Trent,Alexander-Arnold,Liverpool,18,RB,15,England
+Alberto,Moreno,Liverpool,25,LB,8,Spain
+Ben,Woodburn,Liverpool,17,LW,5,Wales
+Marko,Grujic,Liverpool,21,CM,4,Serbia
+Joe,Gomez,Liverpool,20,CB,0,England
+Sheyi,Ojo,Liverpool,20,LW,0,England
+Mohamed,Salah,Liverpool,25,RW,0,Egypt
+Danny,Ings,Liverpool,24,CF,0,England
+Dominic,Solanke,Liverpool,19,CF,0,England
+Kevin,Bruyne,Manchester City,26,AM,199,Belgium
+Sergio,Aguero,Manchester City,29,CF,175,Argentina
+Raheem,Sterling,Manchester City,22,LW,149,England
+Kyle,Walker,Manchester City,27,RB,142,England
+David,Silva,Manchester City,31,AM,130,Spain
+Leroy,Sane,Manchester City,21,LW,105,Germany
+Nicolas,Otamendi,Manchester City,29,CB,100,Argentina
+Aleksandar,Kolarov,Manchester City,31,LB,95,Serbia
+Yaya,Toure,Manchester City,34,CM,86,Cote d'Ivoire
+Fernandinho,,Manchester City,32,DM,78,Brazil
+Claudio,Bravo,Manchester City,34,GK,73,Chile
+Gabriel,Jesus,Manchester City,20,CF,67,Brazil
+John,Stones,Manchester City,23,CB,59,England
+Vincent,Kompany,Manchester City,31,CB,57,Belgium
+Kelechi,Iheanacho,Manchester City,20,CF,52,Nigeria
+Ilkay,Gundogan,Manchester City,26,CM,41,Germany
+Fernando,,Manchester City,32,DM,18,Brazil
+Fabian,Delph,Manchester City,27,CM,13,England
+Ederson,Moraes,Manchester City,23,GK,0,Brazil
+Bernardo,Silva,Manchester City,22,RW,0,Portugal
+Romelu,Lukaku,Manchester United,24,CF,221,Belgium
+David,de Gea,Manchester United,26,GK,136,Spain
+Antonio,Valencia,Manchester United,31,RB,120,Ecuador
+Paul,Pogba,Manchester United,24,CM,115,France
+Eric,Bailly,Manchester United,23,CB,105,Cote d'Ivoire
+Juan,Mata,Manchester United,29,AM,102,Spain
+Daley,Blind,Manchester United,27,LB,98,Netherlands
+Ander,Herrera,Manchester United,27,CM,97,Spain
+Anthony,Martial,Manchester United,21,CF,95,France
+Marcos,Rojo,Manchester United,27,CB,77,Argentina
+Marcus,Rashford,Manchester United,19,CF,76,England
+Henrikh,Mkhitaryan,Manchester United,28,AM,73,Armenia
+Matteo,Darmian,Manchester United,27,RB,70,Italy
+Jesse,Lingard,Manchester United,24,LW,60,England
+Phil,Jones,Manchester United,25,CB,55,England
+Chris,Smalling,Manchester United,27,CB,52,England
+Marouane,Fellaini,Manchester United,29,CM,48,Belgium
+Luke,Shaw,Manchester United,22,LB,45,England
+Michael,Carrick,Manchester United,35,DM,42,England
+Ashley,Young,Manchester United,32,LM,26,England
+Sergio,Romero,Manchester United,30,GK,23,Argentina
+Axel,Tuanzebe,Manchester United,19,CB,14,England
+Timothy,Fosu-Mensah,Manchester United,19,DM,9,Netherlands
+Joel,Pereira,Manchester United,21,GK,6,Portugal
+Victor,Lindelof,Manchester United,23,CB,0,Sweden
+Rob,Elliot,Newcastle United,31,GK,0,Ireland
+Karl,Darlow,Newcastle United,26,GK,0,England
+DeAndre,Yedlin,Newcastle United,24,RB,0,United States
+Ciaran,Clark,Newcastle United,27,CB,0,Ireland
+Lascelles,,Newcastle United,27,CB,0,England
+Paul,Dummett,Newcastle United,25,LB,0,Wales
+Grant,Hanley,Newcastle United,25,CB,0,Scotland
+Jesus,Gamez,Newcastle United,32,RB,0,Spain
+Florian,Lejeune,Newcastle United,26,CB,0,France
+Massadio,Haidara,Newcastle United,24,LB,0,France
+Matt,Ritchie,Newcastle United,27,RM,0,Scotland
+Jonjo,Shelvey,Newcastle United,25,CM,0,England
+Mohamed,Diame,Newcastle United,30,CM,0,Senegal
+Jack,Colback,Newcastle United,27,DM,0,England
+Christian,Atsu,Newcastle United,25,RW,0,Ghana
+Siem,de Jong,Newcastle United,28,AM,0,Netherlands
+Rolando,Aarons,Newcastle United,21,LW,0,England
+Dwight,Gayle,Newcastle United,26,CF,0,England
+Ayoze,Perez,Newcastle United,23,SS,0,Spain
+Aleksandar,Mitrovic,Newcastle United,22,CF,0,Serbia
+Daryl,Murphy,Newcastle United,34,CF,0,Ireland
+Fraser,Forster,Southampton,29,GK,134,England
+Nathan,Redmond,Southampton,23,RW,126,England
+Ryan,Bertrand,Southampton,27,LB,123,England
+DuÅ¡an,TadiÄ‡,Southampton,28,LW,108,Portugal
+Cedric,Soares,Southampton,25,RB,102,Portugal
+James,Ward-Prowse,Southampton,22,CM,92,England
+Oriol,Romeu,Southampton,25,DM,80,Spain
+Maya,Yoshida,Southampton,28,CB,78,Japan
+Steven,Davis,Southampton,32,CM,77,Northern Ireland
+Virgil,van Dijk,Southampton,26,CB,75,Netherlands
+Charlie,Austin,Southampton,28,CF,62,England
+Jack,Stephens,Southampton,23,CB,60,England
+Shane,Long,Southampton,30,CF,57,Ireland
+Sofiane,Boufal,Southampton,23,AM,40,Morocco
+Jordy,Clasie,Southampton,26,DM,38,Netherlands
+Pierre-Emile,Hojbjerg,Southampton,21,CM,38,Denmark
+Manolo,Gabbiadini,Southampton,25,CF,38,Italy
+Sam,McQueen,Southampton,22,LM,23,England
+Matt,Targett,Southampton,21,LB,12,England
+Josh,Sims,Southampton,20,RW,12,England
+Jeremy,Pied,Southampton,28,RM,5,France
+Jason,McCarthy,Southampton,21,CB,0,England
+Jan,Bednarek,Southampton,21,CB,0,Poland
+Joe,Allen,Stoke City,27,CM,118,Wales
+Marko,ArnautoviÄ‡,Stoke City,28,LW,117,England
+Lee,Grant,Stoke City,34,GK,106,England
+Erik,Pieters,Stoke City,28,LB,103,Netherlands
+Steven,Fletcher,Stoke City,30,CF,103,Scotland
+Ryan,Shawcross,Stoke City,29,CB,94,England
+Xherdan,Shaqiri,Stoke City,25,RW,80,Switzerland
+Peter,Crouch,Stoke City,36,CF,79,England
+Glenn,Whelan,Stoke City,33,DM,62,Ireland
+Charlie,Adam,Stoke City,31,CM,59,Scotland
+Geoff,Cameron,Stoke City,32,CB,58,United States
+Glen,Johnson,Stoke City,32,RB,56,England
+Mame,Diouf,Stoke City,29,CF,51,Senegal
+Ramadan,Sobhi,Stoke City,20,LW,36,Egypt
+Marc,Muniesa,Stoke City,25,CB,34,Spain
+Bojan,KrkiÄ‡,Stoke City,26,SS,30,Spain
+Phil,Bardsley,Stoke City,32,RB,27,Scotland
+Saido,Berahino,Stoke City,23,CF,26,England
+Giannelli,Imbula,Stoke City,24,DM,24,France
+Jack,Butland,Stoke City,24,GK,20,England
+Ibrahim,Afellay,Stoke City,31,LM,15,Netherlands
+Josh,Tymon,Stoke City,18,LB,9,England
+Gylfi,Sigurdsson,Swansea City,27,AM,181,Iceland
+Fernando,Llorente,Swansea City,32,CF,146,Spain
+Åukasz,FabiaÅ„ski,Swansea City,32,GK,116,Poland
+Leroy,Fer,Swansea City,27,CM,95,Netherlands
+Alfie,Mawson,Swansea City,23,CB,94,England
+Kyle,Naughton,Swansea City,28,RB,82,England
+Wayne,Routledge,Swansea City,32,LW,74,England
+Federico,Fernandez,Swansea City,28,CB,63,Argentina
+Martin,Olsson,Swansea City,29,LB,52,Sweden
+Tom,Carroll,Swansea City,25,CM,52,England
+Ki,Sung-yueng,Swansea City,28,DM,41,South Korea
+Jordan,Ayew,Swansea City,25,CF,39,Ghana
+Modou,Barrow,Swansea City,24,RW,34,The Gambia
+Leon,Britton,Swansea City,34,CM,32,England
+Stephen,Kingsley,Swansea City,22,LB,29,Scotland
+Ã€ngel,Rangel,Swansea City,34,RB,26,Spain
+Luciano,Narsingh,Swansea City,26,RW,25,Netherlands
+Jay,Fulton,Swansea City,23,CM,19,Scotland
+Jefferson,Montero,Swansea City,27,LW,18,Ecuador
+Mike,van der Hoorn,Swansea City,24,CB,16,Netherlands
+Nathan,Dyer,Swansea City,29,RW,12,England
+Oliver,McBurnie,Swansea City,21,CF,5,Scotland
+Kristoffer,Nordfeldt,Swansea City,28,GK,3,Sweden
+Roque,Mesa,Swansea City,28,CM,0,Spain
+Tammy,Abraham,Swansea City,19,CF,0,England
+Dele,Alli,Tottenham Hotspur,21,CM,225,England
+Harry,Kane,Tottenham Hotspur,23,CF,224,England
+Christian,Eriksen,Tottenham Hotspur,25,AM,218,Denmark
+Son,Heung-min,Tottenham Hotspur,25,LW,174,South Korea
+Hugo,Lloris,Tottenham Hotspur,30,GK,143,France
+Jan,Vertonghen,Tottenham Hotspur,30,CB,126,Belgium
+Toby,Alderweireld,Tottenham Hotspur,28,CB,120,Belgium
+Victor,Wanyama,Tottenham Hotspur,26,DM,103,Kenya
+Eric,Dier,Tottenham Hotspur,23,DM,93,England
+Ben,Davies,Tottenham Hotspur,24,LB,90,Wales
+Danny,Rose,Tottenham Hotspur,27,LB,84,England
+Mousa,Dembele,Tottenham Hotspur,30,CM,76,Belgium
+Vincent,Janssen,Tottenham Hotspur,23,CF,55,Netherlands
+Kieran,Trippier,Tottenham Hotspur,26,RB,51,England
+Moussa,Sissokho,Tottenham Hotspur,27,CM,43,France
+Harry,Winks,Tottenham Hotspur,21,CM,30,England
+Erik,Lamela,Tottenham Hotspur,25,RW,28,Argentina
+Michel,Vorm,Tottenham Hotspur,33,GK,17,Netherlands
+Georges-Kevin,N%27Koudou,Tottenham Hotspur,22,LW,8,France
+Kevin,Wimmer,Tottenham Hotspur,24,CB,2,Austria
+Ã‰tienne,Capoue,Watford,29,DM,131,France
+Troy,Deeney,Watford,29,CF,130,England
+Heurelho,Gomes,Watford,36,GK,113,Brazil
+Jose,Holebas,Watford,33,LB,87,Greece
+Miguel,Britos,Watford,32,CB,71,Uruguay
+Sebastian,Prodl,Watford,30,CB,67,Austria
+Nordin,Amrabat,Watford,30,LW,65,Morocco
+YounÃ¨s,Kaboul,Watford,31,CB,57,France
+Tom,Cleverley,Watford,27,CM,55,England
+Daryl,Janmaat,Watford,27,RB,50,Netherlands
+Valon,Behrami,Watford,32,DM,48,Switzerland
+Roberto,Pereyra,Watford,26,AM,43,Argentina
+Stefano,Okaka,Watford,27,CF,43,Italy
+Abdoulaye,Doucoure,Watford,24,CM,38,France
+Kabasele,,Watford,26,CB,35,Belgium
+Craig,Cathcart,Watford,28,CB,31,Northern Ireland
+Isaac,Success,Watford,21,LW,28,Nigeria
+Adrian,Mariappa,Watford,30,CB,15,Jamaica
+Nathaniel,Chalobah,Watford,22,DM,12,England
+Mauro,Zarate,Watford,30,SS,8,Argentina
+Costel,Pantilimon,Watford,30,GK,2,Romania
+Kiko,Femenia,Watford,26,RB,0,Spain
+Steven,Berghuis,Watford,25,RW,0,Netherlands
+Will,Hughes,Watford,22,CM,0,England
+Gareth,McAuley,West Bromwich Albion,37,CB,131,Northern Ireland
+Salomon,Rondon,West Bromwich Albion,27,CF,118,Venezuela
+Matt,Phillips,West Bromwich Albion,26,RW,115,Scotland
+Ben,Foster,West Bromwich Albion,34,GK,113,England
+Nacer,Chadli,West Bromwich Albion,27,LW,110,Belgium
+Craig,Dawson,West Bromwich Albion,27,RB,102,England
+Chris,Brunt,West Bromwich Albion,32,LM,99,Northern Ireland
+James,Morrison,West Bromwich Albion,31,CM,84,Scotland
+Jonny,Evans,West Bromwich Albion,29,CB,79,Northern Ireland
+Jake,Livermore,West Bromwich Albion,27,DM,77,England
+Allan,Nyom,West Bromwich Albion,29,RB,74,Cameroon
+Jay,Rodriguez,West Bromwich Albion,27,CF,73,England
+Claudio,Yacob,West Bromwich Albion,30,DM,54,Argentina
+James,McClean,West Bromwich Albion,28,LW,52,Ireland
+Hal,Robson-Kanu,West Bromwich Albion,28,LW,52,Wales
+Jonathan,Leko,West Bromwich Albion,18,RW,12,England
+Sam,Field,West Bromwich Albion,19,CM,9,England
+Boaz,Myhill,West Bromwich Albion,34,GK,0,Wales
+Ahmed,Hegazy,West Bromwich Albion,26,CB,0,Egypt
+Robert,Snodgrass,West Ham United,29,RW,133,Scotland
+Manuel,Lanzini,West Ham United,24,AM,133,Argentina
+Michail,Antonio,West Ham United,27,RW,132,England
+Winston,Reid,West Ham United,29,CB,102,New Zealand
+Jose,Fonte,West Ham United,33,CB,98,Portugal
+Andre,Ayew,West Ham United,27,LW,89,Ghana
+Cheikhou,Kouyate,West Ham United,27,DM,79,Senegal
+Mark,Noble,West Ham United,30,CM,71,England
+Darren,Randolph,West Ham United,30,GK,69,Ireland
+James,Collins,West Ham United,33,CB,69,Wales
+Andy,Carroll,West Ham United,28,CF,69,England
+Adrian,,West Ham United,30,GK,64,Spain
+Aaron,Cresswell,West Ham United,27,LB,60,England
+Pedro,Obiang,West Ham United,25,CM,55,Spain
+Sofiane,Feghouli,West Ham United,27,RW,55,Algeria
+Angelo,Ogbonna,West Ham United,29,CB,45,Italy
+Pablo,Zabaleta,West Ham United,32,RB,45,Argentina
+Edimilson,Fernandes,West Ham United,21,CM,38,Switzerland
+Arthur,Masuaku,West Ham United,23,LB,34,Congo DR
+Sam,Byram,West Ham United,23,RB,29,England
+Ashley,Fletcher,West Ham United,21,CF,16,England
+Diafra,Sakho,West Ham United,27,CF,12,Senegal
